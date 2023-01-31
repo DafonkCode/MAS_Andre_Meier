@@ -1,0 +1,12 @@
+[[(446, 143), (836, 237), 'tess', 'p20_tess_auftragsnummer'], 
+[(1376, 143), (1790, 237), 'tess', 'p20_tess_batchnummer'], 
+[(256, 623), (300, 663), 'checkbox', 'p20_a1_checkbox_1'], 
+[(256, 676), (300, 730), 'checkbox', 'p20_a1_checkbox_2'], 
+[(255, 743), (300, 780), 'checkbox', 'p20_a1_checkbox_3'], 
+[(256, 800), (296, 846), 'checkbox', 'p20_a1_checkbox_4'], 
+[(256, 863), (300, 906), 'checkbox', 'p20_a1_checkbox_5'], 
+[(1306, 625), (1346, 666), 'checkbox', 'p20_b1_checkbox_1'],
+[(1306, 683), (1346, 730), 'checkbox', 'p20_b1_checkbox_2'], 
+[(1303, 786), (1350, 830), 'checkbox', 'p20_b1_checkbox_3'], 
+[(1306, 886), (1343, 933), 'checkbox', 'p20_b1_checkbox_4'], 
+[(1306, 946), (1346, 990), 'checkbox', 'p20_b1_checkbox_5']]

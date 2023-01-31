@@ -1,0 +1,6 @@
+[[(398, 115), (783, 225), 'tess', 'p19_tess_auftragsnummer'],
+[(1336, 130), (1746, 225), 'tess', 'p19_tess_batchnummer'], 
+[(1803, 543), (1843, 586), 'checkbox', 'p19_b1_checkbox_1'], 
+[(1793, 593), (1843, 633), 'checkbox', 'p19_b1_checkbox_2'], 
+[(826, 3026), (1213, 3090), 'datum', 'p19_datum_1'], 
+[(1256, 3023), (1426, 3086), 'visum', 'p19_visum_1']]
